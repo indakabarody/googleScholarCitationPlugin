@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS 3.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "plugins.block.googleScholarCitation.displayName"
+msgstr "Google Scholar Citeringsblock"
+
+msgid "plugins.block.googleScholarCitation.description"
+msgstr "Detta plugin ger ett sidofältblock som visar en författares Google Scholar-citeringsstatistik."
+
+msgid "plugins.block.googleScholarCitation.settings"
+msgstr "Inställningar"
+
+msgid "plugins.block.googleScholarCitation.settings.form.scholarUrl"
+msgstr "Google Scholar Profil URL"
+
+msgid "plugins.block.googleScholarCitation.settings.form.scholarUrl.description"
+msgstr "Ange hela webbadressen till Google Scholar-profilen (t.ex. https://scholar.google.com/citations?user...)"
+
+msgid "plugins.block.googleScholarCitation.settings.form.scholarUrlRequired"
+msgstr "En Google Scholar Profile URL krävs."
+
+msgid "plugins.block.googleScholarCitation.blockTitle"
+msgstr "Google Scholar Citeringar"
+
+msgid "plugins.block.googleScholarCitation.errorFetching"
+msgstr "Kunde inte hämta data från den angivna Google Scholar-URL:en."
+
+msgid "plugins.block.googleScholarCitation.notConfigured"
+msgstr "Vänligen konfigurera Google Scholar Profile URL i plugin-inställningarna."
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency"
+msgstr "Uppdateringsfrekvens"
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.description"
+msgstr "Välj hur ofta referensdata för Google Scholar ska uppdateras. Caching minskar sidans laddningstid."
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.daily"
+msgstr "Dagligen"
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.weekly"
+msgstr "Veckovis"
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.monthly"
+msgstr "Månatligen"
+
+msgid "plugins.block.googleScholarCitation.updatedDaily"
+msgstr "Uppdateras dagligen"
+
+msgid "plugins.block.googleScholarCitation.updatedWeekly"
+msgstr "Uppdateras veckovis"
+
+msgid "plugins.block.googleScholarCitation.updatedMonthly"
+msgstr "Uppdateras månatligen"
+
+msgid "plugins.block.googleScholarCitation.lastUpdate"
+msgstr "Senast uppdaterad:"
+

@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS 3.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "plugins.block.googleScholarCitation.displayName"
+msgstr "Bloc de citations Google Scholar"
+
+msgid "plugins.block.googleScholarCitation.description"
+msgstr "Ce plugin fournit un bloc de barre latérale affichant les statistiques de citation Google Scholar d'un auteur."
+
+msgid "plugins.block.googleScholarCitation.settings"
+msgstr "Paramètres"
+
+msgid "plugins.block.googleScholarCitation.settings.form.scholarUrl"
+msgstr "URL du profil Google Scholar"
+
+msgid "plugins.block.googleScholarCitation.settings.form.scholarUrl.description"
+msgstr "Saisissez l'URL complète du profil Google Scholar (par exemple, https://scholar.google.com/citations?user=...)"
+
+msgid "plugins.block.googleScholarCitation.settings.form.scholarUrlRequired"
+msgstr "Une URL de profil Google Scholar est requise."
+
+msgid "plugins.block.googleScholarCitation.blockTitle"
+msgstr "Citations Google Scholar"
+
+msgid "plugins.block.googleScholarCitation.errorFetching"
+msgstr "Impossible de récupérer les données à partir de l'URL Google Scholar fournie."
+
+msgid "plugins.block.googleScholarCitation.notConfigured"
+msgstr "Veuillez configurer l'URL du profil Google Scholar dans les paramètres du plugin."
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency"
+msgstr "Fréquence de mise à jour"
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.description"
+msgstr "Sélectionnez la fréquence de mise à jour des données de citation de Google Scholar. La mise en cache réduit le temps de chargement de la page."
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.daily"
+msgstr "Quotidien"
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.weekly"
+msgstr "Hebdomadaire"
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.monthly"
+msgstr "Mensuel"
+
+msgid "plugins.block.googleScholarCitation.updatedDaily"
+msgstr "Mis à jour quotidiennement"
+
+msgid "plugins.block.googleScholarCitation.updatedWeekly"
+msgstr "Mis à jour hebdomadairement"
+
+msgid "plugins.block.googleScholarCitation.updatedMonthly"
+msgstr "Mis à jour mensuellement"
+
+msgid "plugins.block.googleScholarCitation.lastUpdate"
+msgstr "Dernière mise à jour :"
+

@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS 3.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "plugins.block.googleScholarCitation.displayName"
+msgstr "كتلة اقتباسات الباحث العلمي من جوجل"
+
+msgid "plugins.block.googleScholarCitation.description"
+msgstr "يوفر هذا المكون الإضافي كتلة شريط جانبي تعرض إحصائيات اقتباس الباحث العلمي من جوجل للمؤلف."
+
+msgid "plugins.block.googleScholarCitation.settings"
+msgstr "إعدادات"
+
+msgid "plugins.block.googleScholarCitation.settings.form.scholarUrl"
+msgstr "عنوان URL لملف تعريف الباحث العلمي من جوجل"
+
+msgid "plugins.block.googleScholarCitation.settings.form.scholarUrl.description"
+msgstr "أدخل عنوان URL الكامل لملف تعريف الباحث العلمي من جوجل (على سبيل المثال، https://scholar.google.com/citations?user=...)"
+
+msgid "plugins.block.googleScholarCitation.settings.form.scholarUrlRequired"
+msgstr "مطلوب عنوان URL لملف تعريف الباحث العلمي من جوجل."
+
+msgid "plugins.block.googleScholarCitation.blockTitle"
+msgstr "اقتباسات الباحث العلمي من جوجل"
+
+msgid "plugins.block.googleScholarCitation.errorFetching"
+msgstr "غير قادر على جلب البيانات من عنوان URL المقدم للباحث العلمي من جوجل."
+
+msgid "plugins.block.googleScholarCitation.notConfigured"
+msgstr "يرجى تكوين عنوان URL لملف تعريف الباحث العلمي من جوجل في إعدادات المكون الإضافي."
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency"
+msgstr "تردد التحديث"
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.description"
+msgstr "حدد عدد مرات تحديث بيانات اقتباس الباحث العلمي من جوجل. التخزين المؤقت يقلل من وقت تحميل الصفحة."
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.daily"
+msgstr "يوميا"
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.weekly"
+msgstr "أسبوعيا"
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.monthly"
+msgstr "شهريا"
+
+msgid "plugins.block.googleScholarCitation.updatedDaily"
+msgstr "يتم التحديث يوميا"
+
+msgid "plugins.block.googleScholarCitation.updatedWeekly"
+msgstr "يتم التحديث أسبوعيا"
+
+msgid "plugins.block.googleScholarCitation.updatedMonthly"
+msgstr "يتم التحديث شهريا"
+
+msgid "plugins.block.googleScholarCitation.lastUpdate"
+msgstr "آخر تحديث:"
+

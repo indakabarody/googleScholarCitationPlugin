@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS 3.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "plugins.block.googleScholarCitation.displayName"
+msgstr "谷歌学术引用区块"
+
+msgid "plugins.block.googleScholarCitation.description"
+msgstr "这个插件提供一个侧边栏区块，显示作者的谷歌学术引用统计信息。"
+
+msgid "plugins.block.googleScholarCitation.settings"
+msgstr "设置"
+
+msgid "plugins.block.googleScholarCitation.settings.form.scholarUrl"
+msgstr "谷歌学术个人资料 URL"
+
+msgid "plugins.block.googleScholarCitation.settings.form.scholarUrl.description"
+msgstr "输入谷歌学术个人资料的完整 URL (例如, https://scholar.google.com/citations?user=...)"
+
+msgid "plugins.block.googleScholarCitation.settings.form.scholarUrlRequired"
+msgstr "需要谷歌学术个人资料 URL。"
+
+msgid "plugins.block.googleScholarCitation.blockTitle"
+msgstr "谷歌学术引用"
+
+msgid "plugins.block.googleScholarCitation.errorFetching"
+msgstr "无法从提供的谷歌学术 URL 获取数据。"
+
+msgid "plugins.block.googleScholarCitation.notConfigured"
+msgstr "请在插件设置中配置谷歌学术个人资料 URL。"
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency"
+msgstr "更新频率"
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.description"
+msgstr "选择谷歌学术引用数据的更新频率。缓存会减少页面加载时间。"
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.daily"
+msgstr "每天"
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.weekly"
+msgstr "每周"
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.monthly"
+msgstr "每月"
+
+msgid "plugins.block.googleScholarCitation.updatedDaily"
+msgstr "每天更新"
+
+msgid "plugins.block.googleScholarCitation.updatedWeekly"
+msgstr "每周更新"
+
+msgid "plugins.block.googleScholarCitation.updatedMonthly"
+msgstr "每月更新"
+
+msgid "plugins.block.googleScholarCitation.lastUpdate"
+msgstr "最后更新："
+

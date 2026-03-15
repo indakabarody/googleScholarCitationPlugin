@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS 3.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "plugins.block.googleScholarCitation.displayName"
+msgstr "Μπλοκ παραθέσεων Google Scholar"
+
+msgid "plugins.block.googleScholarCitation.description"
+msgstr "Αυτό το πρόσθετο παρέχει ένα μπλοκ πλευρικής γραμμής που εμφανίζει τα στατιστικά στοιχεία παραθέσεων του συγγραφέα στο Google Scholar."
+
+msgid "plugins.block.googleScholarCitation.settings"
+msgstr "Ρυθμίσεις"
+
+msgid "plugins.block.googleScholarCitation.settings.form.scholarUrl"
+msgstr "URL προφίλ Google Scholar"
+
+msgid "plugins.block.googleScholarCitation.settings.form.scholarUrl.description"
+msgstr "Εισαγάγετε την πλήρη διεύθυνση URL για το προφίλ Google Scholar (π.χ. https://scholar.google.com/citations?user=...)"
+
+msgid "plugins.block.googleScholarCitation.settings.form.scholarUrlRequired"
+msgstr "Απαιτείται URL προφίλ Google Scholar."
+
+msgid "plugins.block.googleScholarCitation.blockTitle"
+msgstr "Παραθέσεις Google Scholar"
+
+msgid "plugins.block.googleScholarCitation.errorFetching"
+msgstr "Δεν είναι δυνατή η λήψη δεδομένων από την παρεχόμενη διεύθυνση URL του Google Scholar."
+
+msgid "plugins.block.googleScholarCitation.notConfigured"
+msgstr "Διαμορφώστε το URL του προφίλ Google Scholar στις ρυθμίσεις του πρόσθετου."
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency"
+msgstr "Συχνότητα ενημέρωσης"
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.description"
+msgstr "Επιλέξτε πόσο συχνά πρέπει να ενημερώνονται τα δεδομένα παραθέσεων του Google Scholar. Η προσωρινή αποθήκευση μειώνει τον χρόνο φόρτωσης της σελίδας."
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.daily"
+msgstr "Καθημερινά"
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.weekly"
+msgstr "Εβδομαδιαία"
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.monthly"
+msgstr "Μηνιαία"
+
+msgid "plugins.block.googleScholarCitation.updatedDaily"
+msgstr "Ενημερώνεται καθημερινά"
+
+msgid "plugins.block.googleScholarCitation.updatedWeekly"
+msgstr "Ενημερώνεται εβδομαδιαία"
+
+msgid "plugins.block.googleScholarCitation.updatedMonthly"
+msgstr "Ενημερώνεται μηνιαία"
+
+msgid "plugins.block.googleScholarCitation.lastUpdate"
+msgstr "Τελευταία ενημέρωση:"
+

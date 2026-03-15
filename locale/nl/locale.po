@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS 3.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "plugins.block.googleScholarCitation.displayName"
+msgstr "Google Scholar Citaties Blok"
+
+msgid "plugins.block.googleScholarCitation.description"
+msgstr "Deze plugin biedt een zijbalkblok met de Google Scholar-citatiestatistieken van een auteur."
+
+msgid "plugins.block.googleScholarCitation.settings"
+msgstr "Instellingen"
+
+msgid "plugins.block.googleScholarCitation.settings.form.scholarUrl"
+msgstr "Google Scholar Profiel URL"
+
+msgid "plugins.block.googleScholarCitation.settings.form.scholarUrl.description"
+msgstr "Voer de volledige URL naar het Google Scholar-profiel in (bijv. https://scholar.google.com/citations?user=...)"
+
+msgid "plugins.block.googleScholarCitation.settings.form.scholarUrlRequired"
+msgstr "Een Google Scholar Profiel URL is vereist."
+
+msgid "plugins.block.googleScholarCitation.blockTitle"
+msgstr "Google Scholar Citaties"
+
+msgid "plugins.block.googleScholarCitation.errorFetching"
+msgstr "Kan geen gegevens ophalen van de opgegeven Google Scholar URL."
+
+msgid "plugins.block.googleScholarCitation.notConfigured"
+msgstr "Configureer de Google Scholar Profiel URL in de plugin-instellingen."
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency"
+msgstr "Updatefrequentie"
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.description"
+msgstr "Selecteer hoe vaak de Google Scholar-citatiegegevens moeten worden bijgewerkt. Caching vermindert de laadtijd van de pagina."
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.daily"
+msgstr "Dagelijks"
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.weekly"
+msgstr "Wekelijks"
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.monthly"
+msgstr "Maandelijks"
+
+msgid "plugins.block.googleScholarCitation.updatedDaily"
+msgstr "Dagelijks bijgewerkt"
+
+msgid "plugins.block.googleScholarCitation.updatedWeekly"
+msgstr "Wekelijks bijgewerkt"
+
+msgid "plugins.block.googleScholarCitation.updatedMonthly"
+msgstr "Maandelijks bijgewerkt"
+
+msgid "plugins.block.googleScholarCitation.lastUpdate"
+msgstr "Laatst bijgewerkt:"
+

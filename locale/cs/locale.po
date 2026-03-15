@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS 3.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "plugins.block.googleScholarCitation.displayName"
+msgstr "Blok citací Google Scholar"
+
+msgid "plugins.block.googleScholarCitation.description"
+msgstr "Tento doplněk poskytuje blok postranního panelu zobrazující statistiky citací Google Scholar autora."
+
+msgid "plugins.block.googleScholarCitation.settings"
+msgstr "Nastavení"
+
+msgid "plugins.block.googleScholarCitation.settings.form.scholarUrl"
+msgstr "URL profilu Google Scholar"
+
+msgid "plugins.block.googleScholarCitation.settings.form.scholarUrl.description"
+msgstr "Zadejte celou adresu URL profilu Google Scholar (např. https://scholar.google.com/citations?user=...)"
+
+msgid "plugins.block.googleScholarCitation.settings.form.scholarUrlRequired"
+msgstr "Je vyžadována adresa URL profilu Google Scholar."
+
+msgid "plugins.block.googleScholarCitation.blockTitle"
+msgstr "Citace Google Scholar"
+
+msgid "plugins.block.googleScholarCitation.errorFetching"
+msgstr "Nelze načíst data z poskytnuté adresy URL Google Scholar."
+
+msgid "plugins.block.googleScholarCitation.notConfigured"
+msgstr "Nakonfigurujte prosím adresu URL profilu Google Scholar v nastavení doplňku."
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency"
+msgstr "Frekvence aktualizací"
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.description"
+msgstr "Vyberte, jak často by se měla data citací Google Scholar aktualizovat. Ukládání do mezipaměti zkracuje dobu načítání stránky."
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.daily"
+msgstr "Denně"
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.weekly"
+msgstr "Týdně"
+
+msgid "plugins.block.googleScholarCitation.settings.form.updateFrequency.monthly"
+msgstr "Měsíčně"
+
+msgid "plugins.block.googleScholarCitation.updatedDaily"
+msgstr "Aktualizováno denně"
+
+msgid "plugins.block.googleScholarCitation.updatedWeekly"
+msgstr "Aktualizováno týdně"
+
+msgid "plugins.block.googleScholarCitation.updatedMonthly"
+msgstr "Aktualizováno měsíčně"
+
+msgid "plugins.block.googleScholarCitation.lastUpdate"
+msgstr "Naposledy aktualizováno:"
+
