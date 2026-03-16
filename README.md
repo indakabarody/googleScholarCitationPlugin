@@ -1,5 +1,7 @@
 # Google Scholar Citation Block Plugin for OJS
 
+**Version:** 1.0.1.0
+
 This plugin provides a sidebar block for Open Journal Systems (OJS) that displays an author's Google Scholar citation statistics. The plugin scrapes the author's public Google Scholar profile to fetch metrics (citations, h-index, i10-index) and a citation histogram, presenting them neatly in your journal's sidebar.
 
 ## Features
@@ -30,7 +32,10 @@ This plugin provides a sidebar block for Open Journal Systems (OJS) that display
 2. Enter the **Google Scholar Profile URL**. 
    * Example: `https://scholar.google.com/citations?user=...`
 3. Select your preferred **Update Frequency** (Daily, Weekly, or Monthly).
-4. Save your changes.
+4. **Color Customization**: You can customize the look of the citation widget to match your journal's theme by using the built-in color pickers for:
+   * **Histogram Color**: Changes the color of the citation bars.
+   * **Label Color**: Changes the color of the year labels below the histogram.
+5. Save your changes.
 
 **Note:** Ensure the plugin is added to the sidebar display. You can verify this by going to **Settings > Website > Appearance**, scrolling down to **Sidebar management**, and making sure "Google Scholar Citation Block" is moved into the active Sidebar column.
 

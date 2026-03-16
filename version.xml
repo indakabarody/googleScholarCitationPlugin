@@ -12,8 +12,8 @@
 <version>
 	<application>googleScholarCitationPlugin</application>
 	<type>plugins.blocks</type>
-	<release>1.0.0.0</release>
-	<date>2026-03-15</date>
+	<release>1.0.1.0</release>
+	<date>2026-03-16</date>
 	<lazy-load>1</lazy-load>
 	<class>GoogleScholarCitationPlugin</class>
 </version>
