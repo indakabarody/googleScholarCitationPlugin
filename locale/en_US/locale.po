@@ -64,3 +64,15 @@ msgstr "Updated monthly"
 
 msgid "plugins.block.googleScholarCitation.lastUpdate"
 msgstr "Last updated:"
+
+msgid "plugins.block.googleScholarCitation.settings.form.histogramColor"
+msgstr "Histogram Color"
+
+msgid "plugins.block.googleScholarCitation.settings.form.histogramColor.description"
+msgstr "Choose a custom color for the citation histogram bars. Leave empty or as default to use Google Scholar's default styling."
+
+msgid "plugins.block.googleScholarCitation.settings.form.labelColor"
+msgstr "Label Color"
+
+msgid "plugins.block.googleScholarCitation.settings.form.labelColor.description"
+msgstr "Choose a custom color for the text and labels in the citation block."

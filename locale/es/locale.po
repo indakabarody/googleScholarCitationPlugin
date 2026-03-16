@@ -65,3 +65,15 @@ msgstr "Actualizado mensualmente"
 msgid "plugins.block.googleScholarCitation.lastUpdate"
 msgstr "Última actualización:"
 
+
+msgid "plugins.block.googleScholarCitation.settings.form.histogramColor"
+msgstr "Color del histograma"
+
+msgid "plugins.block.googleScholarCitation.settings.form.histogramColor.description"
+msgstr "Elija un color personalizado para las barras del histograma de citas. Déjelo en blanco o como predeterminado para usar el estilo predeterminado de Google Scholar."
+
+msgid "plugins.block.googleScholarCitation.settings.form.labelColor"
+msgstr "Color de la etiqueta"
+
+msgid "plugins.block.googleScholarCitation.settings.form.labelColor.description"
+msgstr "Elija un color personalizado para el texto y las etiquetas en el bloque de citas."

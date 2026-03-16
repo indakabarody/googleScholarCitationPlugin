@@ -1,8 +1,7 @@
 {**
  * plugins/blocks/googleScholarCitationPlugin/templates/block.tpl
  *
- * Copyright (c) 2014-2022 Simon Fraser University
- * Copyright (c) 2003-2022 John Willinsky
+ * Copyright (c) 2026 Indaka Barody
  * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
  *
  * Common site sidebar block.
@@ -49,7 +48,7 @@
 /* Update info */
 .block_google_scholar_citation .gs-update-info {
 	font-size: .85em;
-	color: #777;
+	color: {if $labelColor}{$labelColor|escape}{else}#777{/if};
 	text-align: right;
 	line-height: 1.4;
 }
@@ -77,6 +76,7 @@
 	border-spacing: 0;
 	border: 1px solid #f3f3f3;
 	box-shadow: 6px 9px 14px -13px rgba(193,193,193,.75);
+	margin: 5px 0 20px;
 	font-size: 13px;
 }
 
@@ -154,7 +154,7 @@
 
 .block_google_scholar_citation .gsc_g_xtl {
 	position: absolute;
-	color: #777;
+	color: {if $labelColor}{$labelColor|escape}{else}#777{/if};
 	font-size: 11px;
 }
 
@@ -162,7 +162,7 @@
 .block_google_scholar_citation .gsc_g_t {
 	position: absolute;
 	bottom: -5px;
-	color: #777;
+	color: {if $labelColor}{$labelColor|escape}{else}#777{/if};
 	font-size: 10px;
 	z-index: 2;
 	white-space: nowrap;
@@ -173,7 +173,7 @@
 	position: absolute;
 	bottom: 30px;
 	width: 15px;
-	background: linear-gradient(to bottom,#8095c7 0,#117D4B 100%);
+	background: {if $histogramColor}{$histogramColor|escape}{else}linear-gradient(to bottom,#8095c7 0,#117D4B 100%){/if};
 	box-shadow: 1px 1px 2px rgba(0,0,0,.75);
 	z-index: 1;
 	transition: transform .15s ease;

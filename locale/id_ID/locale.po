@@ -64,3 +64,15 @@ msgstr "Diperbarui setiap bulan"
 
 msgid "plugins.block.googleScholarCitation.lastUpdate"
 msgstr "Terakhir diperbarui:"
+
+msgid "plugins.block.googleScholarCitation.settings.form.histogramColor"
+msgstr "Warna Histogram"
+
+msgid "plugins.block.googleScholarCitation.settings.form.histogramColor.description"
+msgstr "Pilih warna kustom untuk batang histogram sitasi. Biarkan kosong atau default untuk menggunakan gaya bawaan Google Scholar."
+
+msgid "plugins.block.googleScholarCitation.settings.form.labelColor"
+msgstr "Warna Label"
+
+msgid "plugins.block.googleScholarCitation.settings.form.labelColor.description"
+msgstr "Pilih warna kustom untuk teks dan label pada blok sitasi."

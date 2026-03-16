@@ -65,3 +65,15 @@ msgstr "Aylık olarak güncellenir"
 msgid "plugins.block.googleScholarCitation.lastUpdate"
 msgstr "Son güncelleme:"
 
+
+msgid "plugins.block.googleScholarCitation.settings.form.histogramColor"
+msgstr "Histogram Rengi"
+
+msgid "plugins.block.googleScholarCitation.settings.form.histogramColor.description"
+msgstr "Alıntı histogram çubukları için özel bir renk seçin. Google Akademik varsayılan stilini kullanmak için boş veya varsayılan olarak bırakın."
+
+msgid "plugins.block.googleScholarCitation.settings.form.labelColor"
+msgstr "Etiket Rengi"
+
+msgid "plugins.block.googleScholarCitation.settings.form.labelColor.description"
+msgstr "Alıntı bloğundaki metin ve etiketler için özel bir renk seçin."

@@ -1,8 +1,7 @@
 {**
  * templates/settings.tpl
  *
- * Copyright (c) 2014-2021 Simon Fraser University
- * Copyright (c) 2003-2021 John Willinsky
+ * Copyright (c) 2026 Indaka Barody
  * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
  *
  * Settings form for the pluginTemplate plugin.

@@ -3,8 +3,7 @@
 /**
  * @file plugins/blocks/googleScholarCitationPlugin/GoogleScholarCitationSettingsForm.inc.php
  *
- * Copyright (c) 2014-2022 Simon Fraser University
- * Copyright (c) 2003-2022 John Willinsky
+ * Copyright (c) 2026 Indaka Barody
  * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
  *
  * @class GoogleScholarCitationSettingsForm
@@ -46,7 +45,9 @@ class GoogleScholarCitationSettingsForm extends Form {
 		$updateFrequency = $this->plugin->getSetting($this->contextId, 'updateFrequency');
 		$this->_data = array(
 			'scholarUrl' => $this->plugin->getSetting($this->contextId, 'scholarUrl'),
-			'updateFrequency' => $updateFrequency ? $updateFrequency : 'monthly'
+			'updateFrequency' => $updateFrequency ? $updateFrequency : 'monthly',
+			'histogramColor' => $this->plugin->getSetting($this->contextId, 'histogramColor'),
+			'labelColor' => $this->plugin->getSetting($this->contextId, 'labelColor')
 		);
 	}
 
@@ -54,7 +55,7 @@ class GoogleScholarCitationSettingsForm extends Form {
 	 * Assign form data to user-submitted data.
 	 */
 	function readInputData() {
-		$this->readUserVars(array('scholarUrl', 'updateFrequency'));
+		$this->readUserVars(array('scholarUrl', 'updateFrequency', 'histogramColor', 'labelColor'));
 	}
 
 	/**
@@ -83,6 +84,8 @@ class GoogleScholarCitationSettingsForm extends Form {
 	function execute(...$functionArgs) {
 		$this->plugin->updateSetting($this->contextId, 'scholarUrl', $this->getData('scholarUrl'), 'string');
 		$this->plugin->updateSetting($this->contextId, 'updateFrequency', $this->getData('updateFrequency'), 'string');
+		$this->plugin->updateSetting($this->contextId, 'histogramColor', $this->getData('histogramColor'), 'string');
+		$this->plugin->updateSetting($this->contextId, 'labelColor', $this->getData('labelColor'), 'string');
 		parent::execute(...$functionArgs);
 	}
 }

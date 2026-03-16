@@ -65,3 +65,15 @@ msgstr "Обновляется ежемесячно"
 msgid "plugins.block.googleScholarCitation.lastUpdate"
 msgstr "Последнее обновление:"
 
+
+msgid "plugins.block.googleScholarCitation.settings.form.histogramColor"
+msgstr "Цвет гистограммы"
+
+msgid "plugins.block.googleScholarCitation.settings.form.histogramColor.description"
+msgstr "Выберите пользовательский цвет для столбцов гистограммы цитирования. Оставьте пустым или по умолчанию, чтобы использовать стиль Google Scholar по умолчанию."
+
+msgid "plugins.block.googleScholarCitation.settings.form.labelColor"
+msgstr "Цвет метки"
+
+msgid "plugins.block.googleScholarCitation.settings.form.labelColor.description"
+msgstr "Выберите пользовательский цвет для текста и меток в блоке цитирования."

@@ -65,3 +65,15 @@ msgstr "毎月更新"
 msgid "plugins.block.googleScholarCitation.lastUpdate"
 msgstr "最終更新："
 
+
+msgid "plugins.block.googleScholarCitation.settings.form.histogramColor"
+msgstr "ヒストグラムの色"
+
+msgid "plugins.block.googleScholarCitation.settings.form.histogramColor.description"
+msgstr "引用ヒストグラムバーのカスタム色を選択します。 Google Scholarのデフォルトスタイルを使用するには、空白にするかデフォルトのままにします。"
+
+msgid "plugins.block.googleScholarCitation.settings.form.labelColor"
+msgstr "ラベルの色"
+
+msgid "plugins.block.googleScholarCitation.settings.form.labelColor.description"
+msgstr "引用ブロック内のテキストとラベルのカスタム色を選択します。"

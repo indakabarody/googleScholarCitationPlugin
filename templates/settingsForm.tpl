@@ -1,8 +1,7 @@
 {**
  * plugins/blocks/googleScholarCitationPlugin/templates/settingsForm.tpl
  *
- * Copyright (c) 2014-2022 Simon Fraser University
- * Copyright (c) 2003-2022 John Willinsky
+ * Copyright (c) 2026 Indaka Barody
  * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
  *
  * Google Scholar Citation plugin settings form.
@@ -22,6 +21,12 @@
 		{/fbvFormSection}
 		{fbvFormSection title="plugins.block.googleScholarCitation.settings.form.updateFrequency" description="plugins.block.googleScholarCitation.settings.form.updateFrequency.description"}
 			{fbvElement type="select" id="updateFrequency" from=$updateFrequencyOptions selected=$updateFrequency translate=false}
+		{/fbvFormSection}
+		{fbvFormSection title="plugins.block.googleScholarCitation.settings.form.histogramColor" description="plugins.block.googleScholarCitation.settings.form.histogramColor.description"}
+			<input type="color" name="histogramColor" id="histogramColor" value="{if $histogramColor}{$histogramColor|escape}{else}#117D4B{/if}" />
+		{/fbvFormSection}
+		{fbvFormSection title="plugins.block.googleScholarCitation.settings.form.labelColor" description="plugins.block.googleScholarCitation.settings.form.labelColor.description"}
+			<input type="color" name="labelColor" id="labelColor" value="{if $labelColor}{$labelColor|escape}{else}#777777{/if}" />
 		{/fbvFormSection}
 	{/fbvFormArea}
 

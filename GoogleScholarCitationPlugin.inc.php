@@ -3,8 +3,7 @@
 /**
  * @file plugins/blocks/googleScholarCitationPlugin/GoogleScholarCitationPlugin.inc.php
  *
- * Copyright (c) 2014-2022 Simon Fraser University
- * Copyright (c) 2003-2022 John Willinsky
+ * Copyright (c) 2026 Indaka Barody
  * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
  *
  * @class GoogleScholarCitationPlugin
@@ -59,6 +58,9 @@ class GoogleScholarCitationPlugin extends BlockPlugin {
 		$updateFrequency = $this->getSetting($context->getId(), 'updateFrequency');
 		if (!$updateFrequency) $updateFrequency = 'monthly';
 		
+		$histogramColor = $this->getSetting($context->getId(), 'histogramColor');
+		$labelColor = $this->getSetting($context->getId(), 'labelColor');
+		
 		$lastUpdate = $this->getSetting($context->getId(), 'lastUpdate');
 		$scholarContent = $this->getSetting($context->getId(), 'scholarContent');
 
@@ -101,6 +103,8 @@ class GoogleScholarCitationPlugin extends BlockPlugin {
 		} else {
 			$templateMgr->assign('scholarContent', $scholarContent);
 			$templateMgr->assign('updateFrequency', $updateFrequency);
+			$templateMgr->assign('histogramColor', $histogramColor);
+			$templateMgr->assign('labelColor', $labelColor);
 			
 			if ($lastUpdate) {
 				$dateFormatShort = Config::getVar('general', 'datetime_format_short');

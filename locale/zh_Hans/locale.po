@@ -65,3 +65,15 @@ msgstr "每月更新"
 msgid "plugins.block.googleScholarCitation.lastUpdate"
 msgstr "最后更新："
 
+
+msgid "plugins.block.googleScholarCitation.settings.form.histogramColor"
+msgstr "直方图颜色"
+
+msgid "plugins.block.googleScholarCitation.settings.form.histogramColor.description"
+msgstr "为引用直方图选择自定义颜色。留空或保持默认以使用 Google Scholar 默认样式。"
+
+msgid "plugins.block.googleScholarCitation.settings.form.labelColor"
+msgstr "标签颜色"
+
+msgid "plugins.block.googleScholarCitation.settings.form.labelColor.description"
+msgstr "为引用区块中的文本和标签选择自定义颜色。"

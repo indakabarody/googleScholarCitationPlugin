@@ -65,3 +65,15 @@ msgstr "يتم التحديث شهريا"
 msgid "plugins.block.googleScholarCitation.lastUpdate"
 msgstr "آخر تحديث:"
 
+
+msgid "plugins.block.googleScholarCitation.settings.form.histogramColor"
+msgstr "لون المدرج التكراري"
+
+msgid "plugins.block.googleScholarCitation.settings.form.histogramColor.description"
+msgstr "اختر لونًا مخصصًا لأشرطة المدرج التكراري للاقتباس. اتركه فارغًا أو افتراضيًا لاستخدام نمط الباحث العلمي من Google الافتراضي."
+
+msgid "plugins.block.googleScholarCitation.settings.form.labelColor"
+msgstr "لون التسمية"
+
+msgid "plugins.block.googleScholarCitation.settings.form.labelColor.description"
+msgstr "اختر لونًا مخصصًا للنص والتسميات في كتلة الاقتباس."
